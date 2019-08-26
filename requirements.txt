@@ -16,7 +16,6 @@ easydict
 joblib
 numpy==1.15.4
 pymongo
-schedule
 scipy
 six
 xlwt
@@ -31,7 +30,6 @@ mxnet
 opencv-python
 aiokafka
 aiohttp
-mongoengine
 overrides==1.9
 pydot
 rx
