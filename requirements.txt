@@ -48,7 +48,7 @@ mongomock
 openpyxl>=2.5.8
 pandas==0.23.3
 psutil>=5.4.6
-pyspark==2.4.0
+pyspark==3.2.2
 PyYAML>=3.13
 overrides==1.9
 requests==2.20.0
